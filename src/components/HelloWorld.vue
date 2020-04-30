@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      Dede R
+      dede rahman
     </p>
     <h3>Installed CLI Plugins</h3>
   </div>
